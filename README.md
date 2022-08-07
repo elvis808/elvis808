@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis808&label=Profile%20views&color=0e75b6&style=flat" alt="elvis808" /> </p>
 
+<p align="left"> <a href="https://twitter.com/ElvisGarramone" target="blank"><img src="https://img.shields.io/twitter/follow/ElvisGarramone?logo-twitter&style-for-the-badge" alt="Elvis Garramone" /></a> <p/>
+
 - 🔭 I’m currently working on **Full-Stack Applications**
 
 - 👨‍💻 All of my projects are available at [Located down below!](https://github.com/elvis808)
