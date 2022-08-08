@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elvis Garramone!</h1>
-<h3 align="center">A Passionate Software Developer</h3>
+<h3 align="center">Passionate Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis808&label=Profile%20views&color=0e75b6&style=flat" alt="elvis808" /> </p>
