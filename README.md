@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Applications**
 
-- 👨‍💻 All of my projects are available at [Located below!](https://github.com/elvis808)
+- 👨‍💻 All of my projects are available at [Located below!](https://github.com/elvis808?tab=repositories)
 
 - 💬 Ask me about **React, JavaScript**
 
