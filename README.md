@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ElvisGarramone" target="blank"><img src="https://img.shields.io/twitter/follow/ElvisGarramone?logo-twitter&style-for-the-badge" alt="Elvis Garramone" /></a> <p/>
 
-- 🔭 I’m currently working on **Full-Stack Applications**
+- 🔭 I’m currently working on **Full-Stack Applications** 
 
 - 👨‍💻 All of my projects are available at [Located below!](https://github.com/elvis808?tab=repositories)
 
