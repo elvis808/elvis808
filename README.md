@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are [Located below!](https://github.com/elvis808?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript**
+- 💬 Ask me about **React, JavaScript, Python**
 
 - 📫 How to reach me **egarramone@gmail.com** 
 
